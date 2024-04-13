@@ -1,10 +1,13 @@
 1) Escreva em Java uma classe Contador, que encapsule um valor usado para contagem de
 itens ou eventos. A classe deve oferecer métodos que devem:
+
 a) Zerar;
 b) Incrementar;
 c) Retornar o valor do contador.
-2) Escreva em Java uma classe Continente. Um continente possui um nome e é composto
+
+3) Escreva em Java uma classe Continente. Um continente possui um nome e é composto
 por um conjunto de países. Forneça os membros de classe a seguir:
+
 a) Construtor que inicialize o nome do continente;
 b) Um método que permita adicionar países aos continentes;
 c) Um método que retorne a dimensão total do continente;
